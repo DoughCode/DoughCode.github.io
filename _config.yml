@@ -8,7 +8,7 @@ logo:               'pic.jpeg'
 background:         'courtyard.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://Doughcode.github.io/Moon
+url:                https://Doughcode.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-#disqus_shortname:   taylantatli
+disqus_shortname:   taylantatli
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -52,8 +52,8 @@ sass:
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           MasjidDarusalam
-youtube-channel:   https://www.youtube.com/channel/UC2Ci0qiC_zp6jr558m-5zkA
+youtube:           Masjid Darusalam
+#youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
