@@ -6,6 +6,4 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><p>Coming Soon</p></center>
-
-
+###COMING SOON
